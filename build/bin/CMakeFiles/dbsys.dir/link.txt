@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dbsys.dir/cmdparser.o CMakeFiles/dbsys.dir/db_sys.o CMakeFiles/dbsys.dir/main.o CMakeFiles/dbsys.dir/table.o  -o dbsys 

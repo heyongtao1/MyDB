@@ -1,0 +1,5 @@
+/mnt/hgfs/share/MyDBMS/cmake_mysql/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/MyDBMS/cmake_mysql/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/MyDBMS/cmake_mysql/build/bin/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/MyDBMS/cmake_mysql/build/bin/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/MyDBMS/cmake_mysql/build/bin/CMakeFiles/dbsys.dir

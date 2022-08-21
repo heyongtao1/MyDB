@@ -1,0 +1,2 @@
+PROJECT(DB)
+ADD_SUBDIRECTORY(src bin)

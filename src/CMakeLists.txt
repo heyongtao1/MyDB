@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(dbsys cmdparser.cpp db_sys.cpp main.cpp table.cpp)
